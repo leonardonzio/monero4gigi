@@ -36,7 +36,7 @@ https://youtu.be/QrHsFZBab4U?si=mkgDwoQFiTXfvqXg
 
 ## To remember
 
-- Almost every crypto project is a scam, an easy way for unethical people to make quick money, while the government is too slow
+- Almost every crypto project is a scam, an easy way for unethical people to make quick money.
 - On the Internet, anonymity is a myth.
 - The blockchain revolution promised decentralization but delivered new forms of centralized power.  
 e.g. :  
